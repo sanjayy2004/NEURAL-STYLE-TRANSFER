@@ -43,3 +43,7 @@ Input images: content.jpg, style.jpg
 
 Output image: output.jpg
 
+
+OUTPUT  
+
+![Image](https://github.com/user-attachments/assets/8425372f-4b22-4b79-bbf2-8a4b94f547b7)
